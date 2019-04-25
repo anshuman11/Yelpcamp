@@ -1,2 +1,2 @@
 # Yelpcamp
-application of RESTful api's
+application of RESTful routs
